@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Pavel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Jun Java developer from Russia 🇷🇺</h3>
+<h3 align="center">Java developer from Russia 🇷🇺</h3>
 <h4 align ="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poor+Story&size=31&pause=1000&color=E2FF14D4&background=96FF2900&center=true&width=435&lines=Crypto+is+our+pain" alt="Typing SVG" /></a></h4>
 <h5 align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KamperClout&repo=java-filmorate" alt="KamperClout" data-canonical-src="https://github.com/KamperClout/java-filmorate" style="max-width: 100%;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamperClout" alt="KamperClout" data-canonical-src="https://github.com/anuraghazra/github-readme-stats" style="max-width: 100%;"></h5>
